@@ -1,9 +1,9 @@
-import Info from "./Info";
+import Average from "./Average";
 
 function App() {
   return (
     <div>
-      <Info />
+      <Average />
     </div>
   );
 }
